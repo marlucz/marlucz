@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Marcin.
 
-I am self-taught, aspiring to gain commercial experience as a Junior JavaScript Developer 
+I am self-taught Junior JavaScript Developer aspiring to become better in programming every day.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlucz/)](https://www.linkedin.com/in/marlucz/)
 [![Hotmail badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:marcin_luczak@hotmail.com)](mailto:marcin_luczak@hotmail.com)
