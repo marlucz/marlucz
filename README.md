@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Marcin.
 
-A self-taught developer, former environmental engineer. Pasionately and commercially working with Vue.js and its ecosystem, also with ReactJS as a hobby. Currently widening knowledge about Nuxt, TypeScript and secrets of WebGL world.
+A self-taught developer with a background in environmental engineering, now working extensively in the React ecosystem. Passionate about web-based 3D technologies, exploring Three.js, WebGL, and GLSL shaders, as well as 3D modeling with Blender. Continuously deepening expertise in creating immersive 3D experiences on the web.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlucz/)](https://www.linkedin.com/in/marlucz/)
 [![Hotmail badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:marcin_luczak@hotmail.com)](mailto:marcin_luczak@hotmail.com)
@@ -11,7 +11,6 @@ A self-taught developer, former environmental engineer. Pasionately and commerci
 [![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org//)
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://react-redux.js.org//)
-[![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vuedotjs&logoColor=fff)](https://vuejs.org/)
 
 [![Threejs](https://img.shields.io/badge/Threejs-black?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
